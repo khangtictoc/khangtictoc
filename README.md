@@ -1,4 +1,4 @@
-### I'm Hoang Khang Tran 👋.
+## I'm Hoang Khang Tran 👋.
 
 - Unemployed. `¯\_( ͡❛ ͜ʖ ͡❛)_/¯`
 
@@ -6,7 +6,7 @@
 
 - Looking for books teaching about illegal trades. ✔
 
-Consulting me about blackmarket and deepweb
+### Consulting me about blackmarket and deepweb via:
 
 <a href="https://www.facebook.com/hoangkhang.tran.14"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 <a href="#" ><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
@@ -14,3 +14,14 @@ Consulting me about blackmarket and deepweb
 <a href="#"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/telegram-app.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/zalo.png"/></a>
+
+### Univeristy chokes me with these:
+
+<div style="display:inline">
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/50/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-duo-tal-revivo.png"/>
+</div>
+
