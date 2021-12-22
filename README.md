@@ -25,3 +25,5 @@
 <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/50/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-duo-tal-revivo.png"/>
 </div>
 
+<br><br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlastorCreeper&show_icons=true&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
