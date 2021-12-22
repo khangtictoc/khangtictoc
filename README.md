@@ -24,7 +24,6 @@
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/50/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-duo-tal-revivo.png"/>
 </div>
-
 <br>
 
 ![](https://komarev.com/ghpvc/?username=AlastorCreeper)
