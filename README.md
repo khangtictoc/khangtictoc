@@ -26,7 +26,7 @@
 </div>
 <br>
 
-![](https://komarev.com/ghpvc/?username=AlastorCreeper)   `(͠≖ ͜ʖ͠≖)👌`
+![](https://komarev.com/ghpvc/?username=khangtictoc)   `(͠≖ ͜ʖ͠≖)👌`
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlastorCreeper&show_icons=true&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khangtictoc&show_icons=true&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
 
