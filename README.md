@@ -1,12 +1,12 @@
 ## I'm Hoang Khang Tran 👋.
 
-- Learn cybersecurity, be into CTF (as a playground)
+- Learn cybersecurity, be into CTF Competitions
 
 ### Hobbies: 💖
 
-- Love browsing things on github (dunno why). `¯\_( ͡❛ ͜ʖ ͡❛)_/¯`
+- Love browsing things on github (dunno why). `¯\_( ͡❛ ͜ʖ ͡❛)_/¯` ✔
 
-- Bug bounty (in future). ✔ 
+- Research & Share. ✔ 
 
 - Free, good books and certificates in security or coding technique ✔
 
