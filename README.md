@@ -1,31 +1,29 @@
-## I'm Hoang Khang Tran 👋.
+<img src="https://i.imgur.com/Q7L9kck.png" align="left" width="330" alt="ful1e5 with halo"/>
 
-- Learn cybersecurity, be into CTF Competitions
+## I'm Hoang Khang Tran 👋.
+<a href="https://www.linkedin.com/in/tranhoangkhang79/"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=blue&style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.facebook.com/hoangkhang.tran.14"><img src="https://img.shields.io/static/v1?label=&message=FACEBOOK&color=89CFFD&style=for-the-badge&logo=facebook"></a>
+
+Learn cybersecurity, like to join CTF competitions
 
 ### Hobbies: 💖
 
-- Love browsing things on github (dunno why). `¯\_( ͡❛ ͜ʖ ͡❛)_/¯` ✔
+- Love browsing things on github, various forum (dunno why). `¯\_( ͡❛ ͜ʖ ͡❛)_/¯` ✔
 
 - Research & Share. ✔ 
 
-- Free, good books and certificates in security or coding technique ✔
+- Study open-source tools, read useful books, open and certificates in security or promoting my career path ✔
 
-### Having a little "chit & chat" with me via:
+### I have been "tortured" with these technologies:
 
-<a href="https://www.facebook.com/hoangkhang.tran.14"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,docker,linux,md,py,selenium)](https://skillicons.dev)
 
+### My supporting tools:
 
-### Univeristy chokes me with these:
-
-<div style="display:inline">
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/50/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-duo-tal-revivo.png"/>
-</div>
-<br>
+[![My Skills](https://skillicons.dev/icons?i=git,discord,github,vscode,visualstudio)](https://skillicons.dev)
+<img src="https://img.icons8.com/color/48/000000/notion--v1.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/old-vmware-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png"/>
 
 ![](https://komarev.com/ghpvc/?username=khangtictoc)   `(͠≖ ͜ʖ͠≖)👌`
 
