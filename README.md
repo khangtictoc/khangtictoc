@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/Q7L9kck.png" align="left" width="330" alt="ful1e5 with halo"/>
+<img src="https://i.imgur.com/Q7L9kck.png" align="left" width="350" alt="ful1e5 with halo"/>
 
 ## I'm Hoang Khang Tran 👋.
 <a href="https://www.linkedin.com/in/tranhoangkhang79/"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=blue&style=for-the-badge&logo=linkedin"></a>
