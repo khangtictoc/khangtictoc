@@ -8,7 +8,7 @@ Learn cybersecurity, like to join CTF competitions
 
 ### Hobbies: 💖
 
-- Love browsing things on github, various forum (dunno why). `¯\_( ͡❛ ͜ʖ ͡❛)_/¯` ✔
+- Love browsing things on various forum (dunno why). `¯\_( ͡❛ ͜ʖ ͡❛)_/¯` ✔
 
 - Research & Share. ✔ 
 
