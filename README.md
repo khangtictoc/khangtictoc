@@ -14,6 +14,8 @@ Learn cybersecurity, like to join CTF competitions
 
 - Read useful books, study open-source tools, certificates in security that could promote my career path and expertise ✔
 
+<br>
+
 ### I have been "tortured" with these technologies:
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,java,py,docker,linux,md,selenium,jenkins)](https://skillicons.dev)
