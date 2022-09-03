@@ -16,7 +16,9 @@ Learn cybersecurity, like to join CTF competitions
 
 ### I have been "tortured" with these technologies:
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,docker,linux,md,py,selenium)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,java,py,docker,linux,md,selenium,jenkins)](https://skillicons.dev)
+  <img src="https://i.imgur.com/ouqeaKQ.png"/>
+  <img src="https://i.imgur.com/aaHo3iE.png"/>
 
 ### My supporting tools:
 
