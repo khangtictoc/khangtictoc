@@ -12,7 +12,7 @@ Learn cybersecurity, like to join CTF competitions
 
 - Research & Share. ✔ 
 
-- Study open-source tools, read useful books, open and certificates in security or promoting my career path ✔
+- Read useful books, study open-source tools, certificates in security that could promote my career path and expertise ✔
 
 ### I have been "tortured" with these technologies:
 
