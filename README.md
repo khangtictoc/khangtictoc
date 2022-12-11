@@ -34,6 +34,6 @@ Learn cybersecurity, like to join CTF competitions
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=khangtictoc&show_icons=true&theme=tokyonight"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangtictoc&theme=tokyonight&layout=compact&langs_count=8"></p>
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bombbom&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="bombbom" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khangtictoc&theme=green_nur&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="khangtictoc" /></p>
 
 </center>
