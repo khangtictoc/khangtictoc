@@ -31,6 +31,9 @@ Learn cybersecurity, like to join CTF competitions
 
 ![](https://komarev.com/ghpvc/?username=khangtictoc)   `(͠≖ ͜ʖ͠≖)👌`
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khangtictoc&show_icons=true&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=khangtictoc&show_icons=true&theme=tokyonight"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangtictoc&theme=tokyonight&layout=compact&langs_count=8"></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khangtictoc&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bombbom&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="bombbom" /></p>
+
+</center>
