@@ -16,11 +16,12 @@ Learn cybersecurity, like to join CTF competitions
 
 <br>
 
+---
 ### I have been "tortured" with these technologies:
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,java,py,docker,linux,md,selenium,jenkins,kubernetes,postman,powershell)](https://skillicons.dev)
  
-
+---
 ### My supporting tools:
 
 [![My Skills](https://skillicons.dev/icons?i=git,discord,github,vscode,visualstudio,eclipse)](https://skillicons.dev)
