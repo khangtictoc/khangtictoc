@@ -4,15 +4,15 @@
 <a href="https://www.linkedin.com/in/tranhoangkhang79/"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=blue&style=for-the-badge&logo=linkedin"></a>
 <a href="https://www.facebook.com/hoangkhang.tran.14"><img src="https://img.shields.io/static/v1?label=&message=FACEBOOK&color=89CFFD&style=for-the-badge&logo=facebook"></a>
 
-Learn cybersecurity, like to join CTF competitions
+Learn cybersecurity, pentest and security architecture.
 
 ### Hobbies: 💖
 
-- Love browsing things on various forum (dunno why). `¯\_( ͡❛ ͜ʖ ͡❛)_/¯` ✔
+- Love browsing things on various tech forum (dunno why). `¯\_( ͡❛ ͜ʖ ͡❛)_/¯` ✔
 
-- Research & Share. ✔ 
+- Research security solutions and its use cases.  ✔ 
 
-- Read useful books, study open-source tools, certificates in security that could promote my career path and expertise ✔
+- In love with digesting useful book and deep knowledges.   ✔
 
 <br>
 
