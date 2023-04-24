@@ -6,7 +6,7 @@
 
 Learn cybersecurity, pentest and security architecture.
 
-### Hobbies: 💖
+### Bio 💖
 
 - Love browsing things on various tech forum (dunno why). `¯\_( ͡❛ ͜ʖ ͡❛)_/¯` ✔
 
@@ -17,17 +17,12 @@ Learn cybersecurity, pentest and security architecture.
 <br>
 
 ---
-### I have been "tortured" with these technologies:
+### I have been "tortured" with these technologies & tools:
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,java,py,docker,linux,md,selenium,jenkins,kubernetes,postman,powershell)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,java,py,docker,linux,md,selenium,jenkins,kubernetes,postman,powershell,git,discord,github,vscode,visualstudio,eclipse)](https://skillicons.dev)
  
 ---
-### My supporting tools:
-
-[![My Skills](https://skillicons.dev/icons?i=git,discord,github,vscode,visualstudio,eclipse)](https://skillicons.dev)
-<img src="https://img.icons8.com/color/48/000000/notion--v1.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/old-vmware-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png"/>
+### Status
 
 ![](https://komarev.com/ghpvc/?username=khangtictoc)   `(͠≖ ͜ʖ͠≖)👌`
 
