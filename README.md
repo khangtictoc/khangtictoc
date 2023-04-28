@@ -24,7 +24,7 @@ Learn cybersecurity, pentest and security architecture.
 ---
 ### 🌟 Status
 
-![](https://komarev.com/ghpvc/?username=khangtictoc)   `(͠≖ ͜ʖ͠≖)👌`
+[![](https://visitcount.itsvg.in/api?id=khangtictoc&label=Total%20Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)   `(͠≖ ͜ʖ͠≖)👌`
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=khangtictoc&show_icons=true&theme=aura"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangtictoc&theme=aura&layout=compact&langs_count=8"></p>
