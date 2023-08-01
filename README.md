@@ -17,7 +17,7 @@ Learn cybersecurity, pentest and security architecture.
 <br>
 
 ---
-### I have been "tortured" with these technologies & tools:
+### Tortured with these technologies & tools:
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,java,py,docker,linux,md,selenium,jenkins,kubernetes,postman,powershell,git,discord,github,vscode,visualstudio,eclipse)](https://skillicons.dev)
  
