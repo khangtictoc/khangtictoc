@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/tranhoangkhang79/"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=blue&style=for-the-badge&logo=linkedin"></a>
 <a href="https://www.facebook.com/hoangkhang.tran.14"><img src="https://img.shields.io/static/v1?label=&message=FACEBOOK&logoColor=white&color=005FED&style=for-the-badge&logo=facebook"></a>
 
-Learn cybersecurity, pentest and security architecture.
+DevSecOps - Security Solution Architect
 
 ### Bio 💖
 
