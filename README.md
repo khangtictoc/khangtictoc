@@ -8,16 +8,16 @@
 
 ### Bio <img src="img/icons8-task.gif"  width="25px" height="25px" >
 
-- Love browsing things on various tech forum (dunno why). `¯\_( ͡❛ ͜ʖ ͡❛)_/¯` <img src="img/icons8-checked.gif" width="20px" height="20px">
+- Browsing things on various tech forum. `¯\_( ͡❛ ͜ʖ ͡❛)_/¯` <img src="img/icons8-checked.gif" width="20px" height="20px">
 
-- Research security solutions and its use cases.  <img src="img/icons8-checked.gif" width="20px" height="20px">
+- Research security solutions and use cases.  <img src="img/icons8-checked.gif" width="20px" height="20px">
 
-- In love with digesting useful book and deep knowledges. <img src="img/icons8-checked.gif" width="20px" height="20px">
+- Reading technical books. <img src="img/icons8-checked.gif" width="20px" height="20px">
 
 <br>
 
 ---
-### Tortured with these technologies & tools:
+### Technology:
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,java,py,docker,linux,md,selenium,jenkins,kubernetes,postman,powershell,git,discord,github,vscode,visualstudio,eclipse)](https://skillicons.dev)
  
