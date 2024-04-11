@@ -4,9 +4,9 @@
 <a href="https://www.linkedin.com/in/tranhoangkhang79/"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=blue&style=for-the-badge&logo=linkedin"></a>
 <a href="https://www.facebook.com/hoangkhang.tran.14"><img src="https://img.shields.io/static/v1?label=&message=FACEBOOK&logoColor=white&color=005FED&style=for-the-badge&logo=facebook"></a>
 
-#### DevSecOps Engineer <img src="img/daftpunktocat-thomas.gif" width="27px" height="27px" >
+#### DevSecOps Engineer <img src="img/icons8-maintenance.gif" width="27px" height="27px" >
 
-### Bio <img src="img/heart-animated-unscreen.gif" alt="heart-animated" width="20px" height="20px" >
+### Bio <img src="img/icons8-heart.gif" alt="heart-animated" width="25px" height="25px" >
 
 - Love browsing things on various tech forum (dunno why). `¯\_( ͡❛ ͜ʖ ͡❛)_/¯` ✔
 
