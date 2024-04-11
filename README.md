@@ -1,18 +1,18 @@
 <img src="https://i.imgur.com/Q7L9kck.png" align="left" width="340" alt="ful1e5 with halo"/>
 
-## I'm Hoang Khang Tran 👋.
+## I'm Hoang Khang Tran <img src="img/icons8-warranty.gif" width="27px" height="27px" >
 <a href="https://www.linkedin.com/in/tranhoangkhang79/"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=blue&style=for-the-badge&logo=linkedin"></a>
 <a href="https://www.facebook.com/hoangkhang.tran.14"><img src="https://img.shields.io/static/v1?label=&message=FACEBOOK&logoColor=white&color=005FED&style=for-the-badge&logo=facebook"></a>
 
 #### DevSecOps Engineer <img src="img/icons8-maintenance.gif" width="27px" height="27px" >
 
-### Bio <img src="img/icons8-heart.gif" alt="heart-animated" width="25px" height="25px" >
+### Bio <img src="img/icons8-task.gif"  width="25px" height="25px" >
 
-- Love browsing things on various tech forum (dunno why). `¯\_( ͡❛ ͜ʖ ͡❛)_/¯` ✔
+- Love browsing things on various tech forum (dunno why). `¯\_( ͡❛ ͜ʖ ͡❛)_/¯` <img src="img/icons8-checked.gif" width="20px" height="20px">
 
-- Research security solutions and its use cases.  ✔ 
+- Research security solutions and its use cases.  ✔ <img src="img/icons8-checked.gif" width="20px" height="20px">
 
-- In love with digesting useful book and deep knowledges.   ✔
+- In love with digesting useful book and deep knowledges.   ✔ <img src="img/icons8-checked.gif" width="20px" height="20px">
 
 <br>
 
