@@ -10,9 +10,9 @@
 
 - Love browsing things on various tech forum (dunno why). `¯\_( ͡❛ ͜ʖ ͡❛)_/¯` <img src="img/icons8-checked.gif" width="20px" height="20px">
 
-- Research security solutions and its use cases.  ✔ <img src="img/icons8-checked.gif" width="20px" height="20px">
+- Research security solutions and its use cases.  <img src="img/icons8-checked.gif" width="20px" height="20px">
 
-- In love with digesting useful book and deep knowledges.   ✔ <img src="img/icons8-checked.gif" width="20px" height="20px">
+- In love with digesting useful book and deep knowledges. <img src="img/icons8-checked.gif" width="20px" height="20px">
 
 <br>
 
