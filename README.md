@@ -2,9 +2,8 @@
 
 ## I'm Hoang Khang Tran <img src="img/icons8-warranty.gif" width="27px" height="27px" >
 <a href="https://www.linkedin.com/in/tranhoangkhang79/"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=blue&style=for-the-badge&logo=linkedin"></a>
-<a href="https://www.facebook.com/hoangkhang.tran.14"><img src="https://img.shields.io/static/v1?label=&message=FACEBOOK&logoColor=white&color=005FED&style=for-the-badge&logo=facebook"></a>
 
-#### DevSecOps Engineer <img src="img/icons8-maintenance.gif" width="27px" height="27px" >
+### *DevSecOps Engineer <img src="img/icons8-maintenance.gif" width="27px" height="27px" >*
 
 ### Bio <img src="img/icons8-task.gif"  width="25px" height="25px" >
 
@@ -17,12 +16,17 @@
 <br>
 
 ---
-### Technology:
+## Technology:
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,java,py,docker,linux,md,selenium,jenkins,kubernetes,postman,powershell,git,discord,github,vscode,visualstudio,eclipse)](https://skillicons.dev)
- 
+#### (DevSecops) Cloud Infra - CICD - Microservices
+  [![My Skills](https://skillicons.dev/icons?i=aws,azure,terraform,ansible,docker,kubernetes,elasticsearch,prometheus,grafana,kali,linux,ubuntu,jenkins,git,github,gitlab)](https://skillicons.dev)
+#### Programming Languages & Frameworks
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,java,spring,py,powershell,bash,pytorch,sklearn,tensorflow)](https://skillicons.dev)
+#### Other tools
+  [![My Skills](https://skillicons.dev/icons?i=md,selenium,postman,notion,discord,gmail,vscode,visualstudio,eclipse)](https://skillicons.dev)
+
 ---
-### 🌟 Status  `(͠≖ ͜ʖ͠≖)👌`
+## 🌟 Status  `(͠≖ ͜ʖ͠≖)👌`
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=khangtictoc&show_icons=true&theme=tokyonight"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khangtictoc&theme=tokyonight&layout=compact&langs_count=8"></p>
