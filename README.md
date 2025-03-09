@@ -19,11 +19,11 @@
 ## Technology:
 
 #### (DevSecops) Cloud Infra - CICD - Microservices
-  [![My Skills](https://skillicons.dev/icons?i=aws,azure,terraform,ansible,docker,kubernetes,elasticsearch,prometheus,grafana,kali,linux,ubuntu,jenkins,git,github,gitlab)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,azure,terraform,ansible,docker,kubernetes,elasticsearch,prometheus,grafana,kali,linux,ubuntu,jenkins,git,github,gitlab,bitbucket,githubactions,cloudflare,mongodb,postgres,nginx)](https://skillicons.dev)
 #### Programming Languages & Frameworks
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,java,spring,py,powershell,bash,pytorch,sklearn,tensorflow)](https://skillicons.dev)
-#### Other tools
-  [![My Skills](https://skillicons.dev/icons?i=md,selenium,postman,notion,discord,gmail,vscode,visualstudio,eclipse)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,java,spring,powershell,bash,py,pytorch,sklearn,tensorflow)](https://skillicons.dev)
+#### Testing & Documentation & Communication Tools
+  [![My Skills](https://skillicons.dev/icons?i=md,cypress,selenium,postman,notion,vscode,visualstudio,eclipse)](https://skillicons.dev)
 
 ---
 ## 🌟 Status  `(͠≖ ͜ʖ͠≖)👌`
