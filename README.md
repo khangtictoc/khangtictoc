@@ -1,15 +1,15 @@
 <img src="https://i.imgur.com/Q7L9kck.png" align="left" width="340" alt="ful1e5 with halo"/>
 
-## I'm Hoang Khang Tran <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+## **I'm Hoang Khang Tran** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <a href="https://www.linkedin.com/in/tranhoangkhang79/"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=blue&style=for-the-badge&logo=linkedin"></a>
 
 ### *DevSecOps Engineer <img src="img/icons8-maintenance.gif" width="27px" height="27px" >*
 
 ### Bio <img src="img/icons8-task.gif"  width="25px" height="25px" >
 
-- Browsing things on various tech forum. `¯\_( ͡❛ ͜ʖ ͡❛)_/¯` <img src="img/icons8-checked.gif" width="20px" height="20px">
+- Browsing tech forum. `¯\_( ͡❛ ͜ʖ ͡❛)_/¯` <img src="img/icons8-checked.gif" width="20px" height="20px">
 
-- Research security solutions and use cases.  <img src="img/icons8-checked.gif" width="20px" height="20px">
+- Security Researcher  <img src="img/icons8-checked.gif" width="20px" height="20px">
 
 - Reading technical books. <img src="img/icons8-checked.gif" width="20px" height="20px">
 
@@ -18,11 +18,11 @@
 ---
 ## Technology
 
-#### Cloud Infra - CICD - Microservices
+#### _Cloud Infra - CICD - Microservices_
   [![My Skills](https://skillicons.dev/icons?i=aws,azure,terraform,ansible,docker,kubernetes,elasticsearch,prometheus,grafana,kali,linux,ubuntu,jenkins,git,github,gitlab,bitbucket,githubactions,cloudflare,mongodb,postgres,nginx)](https://skillicons.dev)
-#### Programming Languages & Frameworks
+#### _Programming Languages & Frameworks_
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,java,spring,powershell,bash,py,pytorch,sklearn,tensorflow)](https://skillicons.dev)
-#### Testing & Documentation & Communication Tools
+#### _Testing & Documentation & Communication Tools_
   [![My Skills](https://skillicons.dev/icons?i=md,cypress,selenium,postman,notion,vscode,visualstudio,eclipse)](https://skillicons.dev)
 
 ---
