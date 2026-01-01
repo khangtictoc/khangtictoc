@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/Q7L9kck.png" align="left" width="340" alt="ful1e5 with halo"/>
 
-## I'm Hoang Khang Tran <img src="img/icons8-warranty.gif" width="27px" height="27px" >
+## I'm Hoang Khang Tran <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <a href="https://www.linkedin.com/in/tranhoangkhang79/"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=blue&style=for-the-badge&logo=linkedin"></a>
 
 ### *DevSecOps Engineer <img src="img/icons8-maintenance.gif" width="27px" height="27px" >*
@@ -16,9 +16,9 @@
 <br>
 
 ---
-## Technology:
+## Technology
 
-#### (DevSecops) Cloud Infra - CICD - Microservices
+#### Cloud Infra - CICD - Microservices
   [![My Skills](https://skillicons.dev/icons?i=aws,azure,terraform,ansible,docker,kubernetes,elasticsearch,prometheus,grafana,kali,linux,ubuntu,jenkins,git,github,gitlab,bitbucket,githubactions,cloudflare,mongodb,postgres,nginx)](https://skillicons.dev)
 #### Programming Languages & Frameworks
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,java,spring,powershell,bash,py,pytorch,sklearn,tensorflow)](https://skillicons.dev)
