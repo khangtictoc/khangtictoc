@@ -1,7 +1,8 @@
 <img src="https://i.imgur.com/Q7L9kck.png" align="left" width="340" alt="ful1e5 with halo"/>
 
 ## **I'm Hoang Khang Tran** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-<a href="https://www.linkedin.com/in/tranhoangkhang79/"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=blue&style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/tranhoangkhang79/"><img src="https://img.shields.io/static/v1?label=&message=LINKEDIN&color=087bb7&style=for-the-badge&logo=linkedin"></a>
+<a href="https://t.me/khangtictoc"><img src="https://img.shields.io/static/v1?label=&message=TELEGRAM&color=088cce&style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 ### *DevSecOps Engineer <img src="img/icons8-maintenance.gif" width="27px" height="27px" >*
 
